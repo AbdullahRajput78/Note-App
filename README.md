@@ -1,16 +1,35 @@
-# newsnew
+# 📝 Notes App
 
-A new Flutter project.
+A simple and clean **Flutter Notes App** built with **Dart & Flutter**, using **GetX** for state management and a structured project architecture.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+* Create, edit and delete notes
+* View saved notes
+* GetX state management
+* Clean and structured code
+* Separate files for UI, logic and models
+* Simple and responsive UI
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter
+* Dart
+* GetX
+* Local data storage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 📱 Screenshots
+
+<p align="center">
+  <img src="AppScreenshot/home.jpeg" width="250">
+  <img src="AppScreenshot/favourite.jpeg" width="250">
+  <img src="AppScreenshot/archive.jpeg" width="250">
+   <img src="AppScreenshot/profile.jpeg" width="250">
+ 
+</p>
+
+
+## 👨‍💻 Developed With
+
+Built as a Flutter development project to practice **GetX, structured architecture, state management, and clean code organization**.
