@@ -22,10 +22,10 @@ A simple and clean **Flutter Notes App** built with **Dart & Flutter**, using **
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="AppScreenshot/home.jpeg" width="250">
-  <img src="AppScreenshot/favourite.jpeg" width="250">
-  <img src="AppScreenshot/archive.jpeg" width="250">
-   <img src="AppScreenshot/profile.jpeg" width="250">
+  <img src="AppScreenshots/home.jpeg" width="250">
+  <img src="AppScreenshots/favourite.jpeg" width="250">
+  <img src="AppScreenshots/archive.jpeg" width="250">
+   <img src="AppScreenshots/profile.jpeg" width="250">
  
 </p>
 
